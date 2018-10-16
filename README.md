@@ -4,6 +4,7 @@ A personal awesome-list for creative coding.
 
 ## Good stuff
 
+- The Coding Train by Daniel Shiffman
 - [`P5.js`](https://p5js.org/)
 
 ## CCFest
@@ -28,3 +29,7 @@ A personal awesome-list for creative coding.
 - Parsons School of Design: Tech & Design
 - [Huge](https://www.hugeinc.com/
 - [Possible](https://www.possible.com/en)
+
+## Academic areas
+- NYU's IMA BFA Undergraduate program
+- NYU ITP
